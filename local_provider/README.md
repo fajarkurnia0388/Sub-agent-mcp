@@ -1,5 +1,7 @@
 # MCP Local Provider — Agent as Local Model
 
+> **Language**: [🇺🇸 English](README.md) | [🇮🇩 Bahasa Indonesia](docs_id/README.md)
+
 > **Transform your Cursor Agent into a Local Provider for VoidEditor**
 
 ## 🎯 Overview

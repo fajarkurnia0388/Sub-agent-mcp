@@ -1,6 +1,6 @@
 # MCP Local Provider — Konsep Model AI Revolusioner
 
-> **Bahasa**: [🇺🇸 English](../ide.md) | [🇮🇩 Bahasa Indonesia](docs_id/ide.md)
+> **Bahasa**: [🇺🇸 English](../ide.md) | [🇮🇩 Bahasa Indonesia](ide.md)
 
 **Ide elegan mengubah agen Cursor menjadi provider model AI lokal untuk IDE apa pun**
 

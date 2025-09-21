@@ -1,6 +1,6 @@
 # MCP Local Provider — Model Agen AI Lokal
 
-> **Bahasa**: [🇺🇸 English](../README.md) | [🇮🇩 Bahasa Indonesia](docs_id/README.md)
+> **Bahasa**: [🇺🇸 English](../README.md) | [🇮🇩 Bahasa Indonesia](README.md)
 
 **Sistem provider lokal yang memungkinkan agen Cursor berperan sebagai model AI untuk VoidEditor**
 

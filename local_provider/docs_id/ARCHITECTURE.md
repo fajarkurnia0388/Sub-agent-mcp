@@ -1,6 +1,6 @@
 # MCP Local Provider — Arsitektur Sistem
 
-> **Bahasa**: [🇺🇸 English](../ARCHITECTURE.md) | [🇮🇩 Bahasa Indonesia](docs_id/ARCHITECTURE.md)
+> **Bahasa**: [🇺🇸 English](../ARCHITECTURE.md) | [🇮🇩 Bahasa Indonesia](ARCHITECTURE.md)
 
 **Arsitektur sistem detail untuk MCP Local Provider**
 

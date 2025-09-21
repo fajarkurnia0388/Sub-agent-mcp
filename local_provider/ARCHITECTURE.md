@@ -1,5 +1,7 @@
 # MCP Local Provider — Architecture & Design
 
+> **Language**: [🇺🇸 English](ARCHITECTURE.md) | [🇮🇩 Bahasa Indonesia](docs_id/ARCHITECTURE.md)
+
 > **Detailed system architecture, data models, and component interactions**
 
 ## 🏗️ System Architecture

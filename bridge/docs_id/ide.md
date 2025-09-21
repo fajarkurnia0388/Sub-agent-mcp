@@ -1,6 +1,6 @@
 # MCP VoidEditor Bridge — Konsep Inti & Filosofi Desain
 
-> **Bahasa**: [🇺🇸 English](../ide.md) | [🇮🇩 Bahasa Indonesia](docs_id/ide.md)
+> **Bahasa**: [🇺🇸 English](../ide.md) | [🇮🇩 Bahasa Indonesia](ide.md)
 
 **Ide fundamental di balik sistem MCP Bridge untuk operasi sub-agent**
 

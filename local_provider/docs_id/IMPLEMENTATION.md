@@ -1,6 +1,6 @@
 # MCP Local Provider — Panduan Implementasi
 
-> **Bahasa**: [🇺🇸 English](../IMPLEMENTATION.md) | [🇮🇩 Bahasa Indonesia](docs_id/IMPLEMENTATION.md)
+> **Bahasa**: [🇺🇸 English](../IMPLEMENTATION.md) | [🇮🇩 Bahasa Indonesia](IMPLEMENTATION.md)
 
 **Contoh kode lengkap dan detail implementasi untuk sistem MCP Local Provider**
 

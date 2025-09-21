@@ -1,6 +1,6 @@
 # MCP Local Provider — Spesifikasi API
 
-> **Bahasa**: [🇺🇸 English](../API_SPECIFICATION.md) | [🇮🇩 Bahasa Indonesia](docs_id/API_SPECIFICATION.md)
+> **Bahasa**: [🇺🇸 English](../API_SPECIFICATION.md) | [🇮🇩 Bahasa Indonesia](API_SPECIFICATION.md)
 
 **Dokumentasi API lengkap untuk sistem MCP Local Provider**
 

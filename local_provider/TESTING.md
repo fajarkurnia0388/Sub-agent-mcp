@@ -1,5 +1,7 @@
 # MCP Local Provider — Testing Guide
 
+> **Language**: [🇺🇸 English](TESTING.md) | [🇮🇩 Bahasa Indonesia](docs_id/TESTING.md)
+
 > **Comprehensive testing strategies, checklists, and validation scenarios**
 
 ## 🎯 Testing Overview

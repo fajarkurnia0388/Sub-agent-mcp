@@ -1,5 +1,7 @@
 # MCP Local Provider — Deployment & Security
 
+> **Language**: [🇺🇸 English](DEPLOYMENT.md) | [🇮🇩 Bahasa Indonesia](docs_id/DEPLOYMENT.md)
+
 > **Production-ready deployment guide with comprehensive security measures**
 
 ## 🚀 Deployment Overview

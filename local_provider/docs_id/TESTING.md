@@ -1,6 +1,6 @@
 # MCP Local Provider — Panduan Testing
 
-> **Bahasa**: [🇺🇸 English](../TESTING.md) | [🇮🇩 Bahasa Indonesia](docs_id/TESTING.md)
+> **Bahasa**: [🇺🇸 English](../TESTING.md) | [🇮🇩 Bahasa Indonesia](TESTING.md)
 
 **Strategi testing komprehensif untuk sistem MCP Local Provider**
 

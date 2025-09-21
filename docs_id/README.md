@@ -1,6 +1,6 @@
 # Sub-Agent MCP — Platform Integrasi AI Revolusioner
 
-> **Bahasa**: [🇺🇸 English](../README.md) | [🇮🇩 Bahasa Indonesia](docs_id/README.md)
+> **Bahasa**: [🇺🇸 English](../README.md) | [🇮🇩 Bahasa Indonesia](README.md)
 
 **Dua pendekatan revolusioner untuk integrasi AI yang mulus di berbagai lingkungan pengembangan**
 

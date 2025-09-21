@@ -1,5 +1,7 @@
 # MCP Local Provider — Implementation Guide
 
+> **Language**: [🇺🇸 English](IMPLEMENTATION.md) | [🇮🇩 Bahasa Indonesia](docs_id/IMPLEMENTATION.md)
+
 > **Complete code examples, starter templates, and implementation details**
 
 ## 🎯 Implementation Overview

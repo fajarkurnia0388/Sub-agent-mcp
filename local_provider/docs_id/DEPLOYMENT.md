@@ -1,6 +1,6 @@
 # MCP Local Provider — Panduan Deployment
 
-> **Bahasa**: [🇺🇸 English](../DEPLOYMENT.md) | [🇮🇩 Bahasa Indonesia](docs_id/DEPLOYMENT.md)
+> **Bahasa**: [🇺🇸 English](../DEPLOYMENT.md) | [🇮🇩 Bahasa Indonesia](DEPLOYMENT.md)
 
 **Panduan deployment produksi dan hardening keamanan untuk sistem MCP Local Provider**
 
