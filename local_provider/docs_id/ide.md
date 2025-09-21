@@ -8,9 +8,9 @@
 
 ## 💡 Konsep Revolusioner
 
-**Bagaimana jika agen Cursor Anda bisa menyamar sebagai model AI lokal yang dapat digunakan IDE apa pun?**
+**Bagaimana jika agen Cursor Anda bisa berbagi kemampuan AI seperti berbagi WiFi?**
 
-MCP Local Provider mentransformasi cara kita berpikir tentang integrasi AI di berbagai tools pengembangan. Alih-alih setiap IDE memerlukan integrasi AI sendiri, kami menciptakan **adapter universal** yang membuat agen Cursor tampak sebagai provider model lokal (seperti Ollama, vLLM, atau LM Studio) untuk IDE yang kompatibel.
+Bayangkan Cursor sebagai laptop dengan WiFi (kemampuan AI), dan VoidEditor sebagai HP yang membutuhkan internet. MCP Local Provider bertindak seperti hotspot, membagikan model AI Cursor ke IDE yang membutuhkannya. VoidEditor mengira sedang berbicara dengan model lokal, padahal sebenarnya mendapat respons dari agen Cursor cerdas.
 
 ### Solusi Elegan
 
@@ -18,19 +18,19 @@ MCP Local Provider mentransformasi cara kita berpikir tentang integrasi AI di be
 Pendekatan Tradisional:
 IDE → Layanan AI Langsung (OpenAI, Anthropic, dll.)
 
-Pendekatan Revolusioner:
-IDE → Local Provider Adapter → Cursor Agent → Layanan AI
+Pendekatan Berbagi WiFi:
+IDE → Local Provider (Hotspot) → Cursor Agent (Sumber WiFi) → Layanan AI
 ```
 
-**Hasil**: VoidEditor mengira sedang berbicara dengan model lokal, padahal sebenarnya mendapat respons dari agen Cursor cerdas dengan konteks dan kemampuan penuh.
+**Hasil**: VoidEditor mengira sedang berbicara dengan model lokal, padahal sebenarnya mendapat respons dari agen Cursor cerdas dengan konteks dan kemampuan penuh, seperti HP yang menggunakan hotspot laptop mendapat koneksi internet yang sama.
 
 ---
 
-## 🌟 Filosofi "Proxy Model"
+## 🌟 Filosofi "Berbagi WiFi"
 
 ### Inovasi Inti
 
-Alih-alih membangun jembatan antara IDE spesifik, kami menciptakan **penerjemah universal** yang berbicara dalam bahasa yang sudah dipahami setiap IDE: endpoint API kompatibel OpenAI.
+Alih-alih membangun jembatan antara IDE spesifik, kami menciptakan **hotspot universal** yang berbicara dalam bahasa yang sudah dipahami setiap IDE: endpoint API kompatibel OpenAI. Sama seperti hotspot WiFi bekerja dengan perangkat apa pun, Local Provider kami bekerja dengan IDE apa pun.
 
 ### Trik Ajaib
 

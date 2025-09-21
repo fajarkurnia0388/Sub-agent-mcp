@@ -5,7 +5,7 @@
 **Ringkasan**  
 Proyek ini adalah _starter_ untuk membuat **MCP bridge** yang memungkinkan **sub-agen** beroperasi di dalam **VoidEditor** dengan kemampuan IDE lengkap, seperti agen bekerja di Cursor.
 
-**Konsep**: Bayangkan Cursor sebagai **Kota Besar** tempat agen utama tinggal, dan VoidEditor sebagai **Kota Kecil** di dalam kota besar tempat sub-agen dapat bekerja secara independen. Pendekatan bridge menjaga VoidEditor tetap tidak dimodifikasi besar, memberi kontrol izin, dan memudahkan audit.
+**Konsep**: Bayangkan Cursor sebagai lingkungan **Main Agent** tempat agen AI utama beroperasi, dan VoidEditor sebagai **Extended Environment** tempat sub-agen dapat bekerja dengan kemampuan IDE lengkap. Pendekatan bridge menjaga VoidEditor tetap tidak dimodifikasi besar, memberi kontrol izin, dan memudahkan audit.
 
 > Semua komponen dibuat untuk **lab / sandbox**. Terapkan hardening sebelum produksi.
 

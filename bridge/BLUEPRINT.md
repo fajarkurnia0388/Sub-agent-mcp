@@ -4,7 +4,7 @@
 
 This document is a technical blueprint for **MCP Bridge** that enables **sub-agents** to operate inside VoidEditor with full IDE capabilities, just like agents work in Cursor.
 
-**Concept**: Cursor = Big City, VoidEditor = Small City inside the big city.
+**Concept**: Cursor = Main Agent environment, VoidEditor = Extended environment for sub-agents.
 
 Focus: architecture, API spec, WS messages, lifecycle, security, testing, and edge-cases.
 

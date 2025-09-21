@@ -8,7 +8,7 @@
 
 ## 💡 Ide Besar
 
-**Bayangkan Cursor IDE sebagai "Kota Besar" dan VoidEditor sebagai "Kota Kecil" di dalamnya.**
+**Bayangkan Cursor IDE sebagai lingkungan Main Agent dan VoidEditor sebagai Extended environment untuk sub-agent.**
 
 MCP VoidEditor Bridge memungkinkan agen Cursor beroperasi dengan mulus di dalam VoidEditor, menciptakan **sub-agent** yang memiliki kemampuan IDE penuh sambil menjaga keamanan dan kontrol pengguna. Ini seperti memiliki wakil terpercaya yang dapat bekerja secara mandiri tetapi tetap melaporkan kembali kepada otoritas utama.
 

@@ -5,7 +5,7 @@
 **Summary**  
 This project is a _starter_ for creating an **MCP bridge** that enables **sub-agents** to operate inside **VoidEditor** with full IDE capabilities, just like agents work in Cursor.
 
-**Concept**: Think of Cursor as a **Big City** where your main agent lives, and VoidEditor as a **Small City** inside the big city where sub-agents can work independently. The bridge approach keeps VoidEditor largely unmodified, provides permission control, and facilitates auditing.
+**Concept**: Think of Cursor as the **Main Agent** environment where your primary AI agent operates, and VoidEditor as an **Extended Environment** where sub-agents can work with full IDE capabilities. The bridge approach keeps VoidEditor largely unmodified, provides permission control, and facilitates auditing.
 
 > All components are built for **lab / sandbox**. Apply hardening before production.
 

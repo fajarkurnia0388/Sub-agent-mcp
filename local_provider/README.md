@@ -4,13 +4,13 @@
 
 ## 🎯 Overview
 
-This project enables **Cursor Agents** to function as **Local Model Providers** for VoidEditor IDE. VoidEditor will perceive it as a local model (like Ollama/vLLM/LM Studio), but internally all requests are forwarded to the Cursor Agent through MCP protocol.
+This project enables **Cursor Agents** to function as **Local Model Providers** for VoidEditor IDE. Think of it like sharing WiFi: Cursor (laptop with WiFi) shares its AI capabilities through a hotspot (Local Provider), allowing VoidEditor (phone) to access the same AI model.
 
-### 🏙️ Concept Analogy
+### 📶 Concept Analogy
 
-- **Cursor IDE** = Big City (Main Agent Environment)
-- **VoidEditor** = Small City (where agent appears as local model)
-- **Local Provider Adapter** = Bridge between cities
+- **Cursor IDE** = Laptop with WiFi (AI capabilities)
+- **VoidEditor** = Phone using laptop's hotspot (accessing AI through Local Provider)
+- **Local Provider Adapter** = Hotspot sharing WiFi connection
 
 ---
 

@@ -6,11 +6,11 @@
 
 ## 🌟 Ringkasan
 
-MCP Local Provider adalah sistem inovatif yang mengubah cara agen AI berinteraksi antar IDE. Alih-alih hanya mentransfer kontrol, sistem ini memungkinkan agen Cursor untuk berperan sebagai **model AI lokal** yang dapat diakses oleh VoidEditor, menciptakan kolaborasi AI antar editor yang mulus.
+MCP Local Provider adalah sistem inovatif yang mengubah cara agen AI berinteraksi antar IDE. Bayangkan seperti berbagi WiFi: Cursor (laptop dengan WiFi) membagikan kemampuan AI-nya melalui hotspot (Local Provider), memungkinkan VoidEditor (HP) mengakses model AI yang sama.
 
 ### Keunggulan Utama
 
-✅ **Model AI Lokal** - Agen Cursor berfungsi sebagai provider model AI untuk VoidEditor  
+✅ **Berbagi Model AI** - Agen Cursor berfungsi sebagai hotspot untuk membagikan kemampuan AI  
 ✅ **Kompatibilitas API** - Mendukung endpoint OpenAI dan Ollama  
 ✅ **Sesi Aman** - Autentikasi berbasis token dan manajemen sesi efemeral  
 ✅ **Komunikasi Real-time** - Streaming respons dan komunikasi WebSocket  

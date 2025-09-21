@@ -8,7 +8,7 @@
 
 ## 💡 The Big Idea
 
-**Imagine Cursor IDE as a "Big City" and VoidEditor as a "Small City" within it.**
+**Imagine Cursor IDE as the Main Agent environment and VoidEditor as an Extended environment for sub-agents.**
 
 The MCP VoidEditor Bridge enables Cursor agents to operate seamlessly within VoidEditor, creating **sub-agents** that have full IDE capabilities while maintaining security and user control. It's like having a trusted deputy that can work independently but still reports back to the main authority.
 

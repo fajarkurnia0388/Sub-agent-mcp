@@ -2,7 +2,7 @@
 
 > **Bahasa**: [🇺🇸 English](../BLUEPRINT.md) | [🇮🇩 Bahasa Indonesia](BLUEPRINT.md)
 
-Dokumen ini adalah blueprint teknis untuk **MCP Bridge** yang menghubungkan agen di Cursor ke VoidEditor. Fokus: arsitektur, API spec, pesan WS, lifecycle, keamanan, testing, dan edge-cases.
+Dokumen ini adalah blueprint teknis untuk **MCP Bridge** yang memungkinkan **sub-agen** beroperasi di dalam VoidEditor dengan kemampuan IDE lengkap, seperti agen bekerja di Cursor. Fokus: arsitektur, API spec, pesan WS, lifecycle, keamanan, testing, dan edge-cases.
 
 ---
 
@@ -12,7 +12,7 @@ Sediakan mediator aman dan auditable yang:
 
 - menerima request akses dari agen,
 - meminta persetujuan user lewat Cursor,
-- menciptakan session ephemeral untuk agen berinteraksi dengan VoidEditor,
+- menciptakan session ephemeral untuk **sub-agen** beroperasi di dalam VoidEditor,
 - meneruskan perintah dengan enforcement policy (roots/scopes/limits).
 
 ---

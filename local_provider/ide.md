@@ -8,9 +8,9 @@
 
 ## 💡 The Revolutionary Concept
 
-**What if your Cursor agent could masquerade as a local AI model that any IDE can use?**
+**What if your Cursor agent could share its AI capabilities like sharing WiFi?**
 
-The MCP Local Provider transforms the way we think about AI integration across development tools. Instead of each IDE needing its own AI integration, we create a **universal adapter** that makes Cursor agents appear as local model providers (like Ollama, vLLM, or LM Studio) to any compatible IDE.
+Think of Cursor as a laptop with WiFi (AI capabilities), and VoidEditor as a phone that needs internet. The MCP Local Provider acts like a hotspot, sharing Cursor's AI model with any IDE that needs it. VoidEditor thinks it's talking to a local model, but it's actually getting responses from your intelligent Cursor agent.
 
 ### The Elegant Solution
 
@@ -18,19 +18,19 @@ The MCP Local Provider transforms the way we think about AI integration across d
 Traditional Approach:
 IDE → Direct AI Service (OpenAI, Anthropic, etc.)
 
-Revolutionary Approach:
-IDE → Local Provider Adapter → Cursor Agent → AI Service
+WiFi Sharing Approach:
+IDE → Local Provider (Hotspot) → Cursor Agent (WiFi Source) → AI Service
 ```
 
-**Result**: VoidEditor thinks it's talking to a local model, but it's actually getting responses from your intelligent Cursor agent with full context and capabilities.
+**Result**: VoidEditor thinks it's talking to a local model, but it's actually getting responses from your intelligent Cursor agent with full context and capabilities, just like a phone using laptop's hotspot gets the same internet connection.
 
 ---
 
-## 🌟 The "Proxy Model" Philosophy
+## 🌟 The "WiFi Sharing" Philosophy
 
 ### Core Innovation
 
-Instead of building bridges between specific IDEs, we create a **universal translator** that speaks the language every IDE already understands: OpenAI-compatible API endpoints.
+Instead of building bridges between specific IDEs, we create a **universal hotspot** that speaks the language every IDE already understands: OpenAI-compatible API endpoints. Just like WiFi hotspots work with any device, our Local Provider works with any IDE.
 
 ### The Magic Trick
 
