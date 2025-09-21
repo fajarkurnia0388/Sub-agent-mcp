@@ -1,6 +1,6 @@
 # MCP VoidEditor Bridge — Implementation Guide
 
-> **Language**: [🇺🇸 English](IMPLEMENTATION.md) | [🇮�D Bahasa Indonesia](docs_id/IMPLEMENTATION.md)
+> **Language**: [🇺🇸 English](IMPLEMENTATION.md) | [🇮🇩 Bahasa Indonesia](docs_id/IMPLEMENTATION.md)
 
 **Complete code examples and implementation details for the MCP Bridge system**
 
